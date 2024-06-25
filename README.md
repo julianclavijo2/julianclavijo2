@@ -9,7 +9,7 @@
 🌱 &nbsp;Interested in digital economies and technologies .\
 ✍️ &nbsp;In my free time, I like studing english language to better my professional skills.\
 💬 &nbsp;Creative and never stop to learn.\
-✉️ &nbsp;You can shoot me an email at julianclavijo20@gmail.com!.\
+✉️ &nbsp;You can shoot me an email at julianclavijo2@gmail.com!.\
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -25,11 +25,4 @@
 ![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-
-
-### 📜 &nbsp;My Articles
-
-[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityakanoi123)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
-
 
