@@ -1,4 +1,4 @@
-## Hi Im julianclavijo2 👋
+## Hi I'm julianclavijo2 👋
 
 ![Aditya Kanoi Banner](https://github.com/julianclavijo2/calc-descuento/blob/master/assets/Presentaci%C3%B3n1.jpg)
 ### 👨🏻‍💻 &nbsp;About Me
