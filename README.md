@@ -1,6 +1,6 @@
 ## Hi I'm julianclavijo2 👋
 
-![Aditya Kanoi Banner](https://github.com/julianclavijo2/julianclavijo2/blob/main/Presentaci%C3%B3n1.jpg)
+![Aditya Kanoi Banner](https://github.com/julianclavijo2/julianclavijo2/blob/main/wallPaper.jpg)
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;Frontend dev.\
